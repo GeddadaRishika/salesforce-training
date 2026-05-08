@@ -10,10 +10,9 @@ A.Account-The company or customer you do business with
   Opportunity-A possible sales deal
 
 4.Your real world mapping?
-A.Lead-A customer browsing products or adding items to cart.
-  Contact-A customer who created an account and provided contact details.
-  Account-The shopping company
-  Opportunity-Order or purchase
+A.Lead-A person who contacts the hospital for treatment 
+  Contact-The patient whose personal details are registered in the hospital system.
+  Account-The hospital or healthcare organization.
+  Opportunity-The treatment, surgery, consultation, or healthcare service the patient may take.
 
-5.
 
